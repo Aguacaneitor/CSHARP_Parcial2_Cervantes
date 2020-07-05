@@ -1,0 +1,10 @@
+C:\Users\diazda\Desktop\Nueva carpeta\Daniel\Cervantes\Parcial2_Daniel_Diaz_25305\Gestion_Notas_de_Alumnos\bin\Debug\Gestion_Notas_de_Alumnos.exe.config
+C:\Users\diazda\Desktop\Nueva carpeta\Daniel\Cervantes\Parcial2_Daniel_Diaz_25305\Gestion_Notas_de_Alumnos\bin\Debug\Gestion_Notas_de_Alumnos.exe
+C:\Users\diazda\Desktop\Nueva carpeta\Daniel\Cervantes\Parcial2_Daniel_Diaz_25305\Gestion_Notas_de_Alumnos\bin\Debug\Gestion_Notas_de_Alumnos.pdb
+C:\Users\diazda\Desktop\Nueva carpeta\Daniel\Cervantes\Parcial2_Daniel_Diaz_25305\Gestion_Notas_de_Alumnos\bin\Debug\Gestion_Notas_de_Alumnos.xml
+C:\Users\diazda\Desktop\Nueva carpeta\Daniel\Cervantes\Parcial2_Daniel_Diaz_25305\Gestion_Notas_de_Alumnos\obj\Debug\Gestion_Notas_de_Alumnos.vbprojResolveAssemblyReference.cache
+C:\Users\diazda\Desktop\Nueva carpeta\Daniel\Cervantes\Parcial2_Daniel_Diaz_25305\Gestion_Notas_de_Alumnos\obj\Debug\Gestion_Notas_de_Alumnos.Resources.resources
+C:\Users\diazda\Desktop\Nueva carpeta\Daniel\Cervantes\Parcial2_Daniel_Diaz_25305\Gestion_Notas_de_Alumnos\obj\Debug\Gestion_Notas_de_Alumnos.vbproj.GenerateResource.Cache
+C:\Users\diazda\Desktop\Nueva carpeta\Daniel\Cervantes\Parcial2_Daniel_Diaz_25305\Gestion_Notas_de_Alumnos\obj\Debug\Gestion_Notas_de_Alumnos.exe
+C:\Users\diazda\Desktop\Nueva carpeta\Daniel\Cervantes\Parcial2_Daniel_Diaz_25305\Gestion_Notas_de_Alumnos\obj\Debug\Gestion_Notas_de_Alumnos.xml
+C:\Users\diazda\Desktop\Nueva carpeta\Daniel\Cervantes\Parcial2_Daniel_Diaz_25305\Gestion_Notas_de_Alumnos\obj\Debug\Gestion_Notas_de_Alumnos.pdb
